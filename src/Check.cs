@@ -9,5 +9,10 @@ namespace src
             Type t = typeof(T);
             return t.GetProperty(name).GetValue(obj, null);
         }
+
+        public static DateTime GetDateZeroTime(DateTime date)
+        {
+            return new DateTime(date.Year, date.Month, date.Day, 0, 0, 0);
+        }
     }
 }
