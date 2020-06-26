@@ -1,2 +1,2 @@
 # Ocy.Jquery.DataTable.Csharp.Extensions
-Jquery Datatable Request &amp; Response Support
+ASP.NET CORE MVC Jquery Datatable Request &amp; Response Support
