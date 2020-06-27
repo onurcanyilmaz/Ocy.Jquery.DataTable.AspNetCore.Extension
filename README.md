@@ -1,2 +1,2 @@
 # Ocy.Jquery.DataTable.Csharp.Extensions
-ASP.NET CORE MVC Jquery Datatable Paging, Ordering, Ajax Request and Response, dynamic search input, ajax server side, backend
+ASP.NET CORE MVC Jquery Datatable Ajax Server Side, .NET CORE backend ,Paging, Ordering, Ajax Request and Response, dynamic search input
